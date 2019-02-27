@@ -17,6 +17,7 @@
 *.cydsn/*.cycdx
 *.cydsn/*.cyfit
 *.cydsn/*.cyprj.*
+*.cylib/*.cyprj.*
 *.svd
 *.cywrk.*
 
